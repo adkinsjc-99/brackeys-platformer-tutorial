@@ -14,6 +14,10 @@ config/name="Brackeys' Platformer Tutorial"
 run/main_scene="res://scenes/game.tscn"
 config/features=PackedStringArray("4.2", "Forward Plus")
 
+[autoload]
+
+Music="*res://scenes/music.tscn"
+
 [input]
 
 move_left={
